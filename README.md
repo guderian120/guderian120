@@ -1,19 +1,65 @@
 
-## 👋 Hey there! Welcome to My GitHub Profile! 🚀
+# 👋 Welcome to My GitHub!
 
-I'm a **Seasoned Python Developer** turned **DevOps Engineer** 🔧, with a strong foundation in software development, cloud infrastructure, and automation. My journey into DevOps has been fueled by multiple bootcamps, hands-on projects, and a **Mindset of continuous and lifelong learning** 🏆.
+I'm a **DevOps Engineer & Python Developer** with a strong foundation in software engineering, cloud architecture, and end-to-end automation. From writing clean backend code in Python to deploying scalable infrastructure with Terraform and managing secure pipelines with Jenkins and AWS CodeFamily—I've built a tech stack that brings code to production reliably and efficiently.
 
-### 💡 About Me:
-- 💻 Passionate about **automation, CI/CD, cloud computing, and containerization**
-- 🌎 Experienced in **AWS, Azure, Kubernetes, Docker, and Terraform**
-- 🔄 Advocating for **Agile methodologies & DevOps best practices**
-- 🛠️ Building scalable and resilient infrastructures
-- 📜 Constantly learning and experimenting with new technologies
+---
 
+## 🚀 What I Do
 
-### 🤝 Connect with Me:
+![DevOps Banner](/media/grafana_dashboard.gif) <!-- Replace with your actual image or GIF URL -->
 
-✨ **Let's build, automate, and innovate together!** ✨
+- 🧠 **Design & implement CI/CD pipelines** using Jenkins, AWS CodePipeline, and GitHub Actions  
+- 📦 **Package & manage artifacts** with tools like **JFrog Artifactory** and **Maven**  
+- ☁️ **Deploy cloud-native applications** on **AWS** and **Azure**, using **Docker** and **Kubernetes**  
+- 🛠️ **Automate infrastructure** using **Terraform**, **Ansible**, and **CloudFormation**  
+- 🧪 **Test and secure deployments** with quality gates and policy enforcement
+
+---
+
+## 🧰 My Toolbelt
+
+| DevOps & Automation | Cloud Platforms | Build & Deploy |
+|---------------------|-----------------|----------------|
+| Jenkins, GitHub Actions, AWS CodePipeline | AWS, Azure | Docker, Kubernetes, Helm |
+| Terraform, Ansible, CloudFormation | CloudWatch, Azure Monitor | JFrog, Maven, Nexus |
+| Prometheus, Grafana | S3, EC2, RDS, Route53 | CodeDeploy, CodeBuild, CodeArtifact |
+
+---
+
+## 💡 Featured Projects
+
+🔹 **[CI/CD with Jenkins + TomCat + Maven](https://github.com/guderian120/maven_tomcat_deployment)**  
+> ![Pipeline Preview](/media/maven_tomcat.gif)  
+> A real-world pipeline that integrates Jenkins, Maven, and JFrog for secure artifact delivery.
+
+<!-- 🔹 **[AWS CodeFamily Demo](https://github.com/your-username/aws-codefamily-demo)**  
+> ![AWS Pipeline](/media/aws_pipeline.png)  
+> Complete deployment pipeline using CodeCommit, CodeBuild, CodeDeploy, and CodePipeline. -->
+
+<!-- 🔹 **[Kubernetes Deployment with Helm](https://github.com/your-username/k8s-helm-deployment)**  
+> ![K8s App](/media/k8s_dashboard.png)  
+> A microservice-based app deployed on Kubernetes with Helm and monitored with Prometheus. -->
+
+---
+
+## 🧭 Core Values
+
+- 🧩 **Build reliable, scalable systems**
+- 🚦 **Shift-left testing & security**
+- 🧪 **Experiment and iterate quickly**
+- 🧠 **Lifelong learning, always evolving**
+
+---
+
+## 🤝 Let’s Collaborate
+
+✨ I'm open to opportunities, collaborations, and problem-solving missions.  
+🔗 [Connect on LinkedIn](http://linkedin.com/in/andy-amponsah-bb72671b5) • 📬 [Email Me](mailto:andy.amponsah@amalitechtraining.org)
+
+---
+
+> _"DevOps isn't just a role—it's a mindset. Automate everything, secure everywhere, and deliver faster."_ 🚀
 
 
 <!---
