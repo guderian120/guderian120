@@ -33,6 +33,10 @@ I'm a **DevOps Engineer & Python Developer** with a strong foundation in softwar
 > ![Pipeline Preview](/media/maven_tomcat.gif)  
 > A real-world pipeline that integrates Jenkins, Maven, and JFrog for secure artifact delivery.
 
+
+🔹 **[AWS QuickSight Demo](https://github.com/guderian120/Amazon_QuickSight)**  
+> ![AWS Pipeline](/media/quick_sight_v1.gif)  
+> Complete data visualization using Amazon QuickSight to consume large csv data from AWS S3.
 <!-- 🔹 **[AWS CodeFamily Demo](https://github.com/your-username/aws-codefamily-demo)**  
 > ![AWS Pipeline](/media/aws_pipeline.png)  
 > Complete deployment pipeline using CodeCommit, CodeBuild, CodeDeploy, and CodePipeline. -->
