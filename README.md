@@ -7,7 +7,7 @@ I'm a **DevOps Engineer & Python Developer** with a strong foundation in softwar
 
 ## 🚀 What I Do
 
-![DevOps Banner](/media/grafana_dashboard.gif) <!-- Replace with your actual image or GIF URL -->
+![DevOps Banner](/media/dashboard.png) <!-- Replace with your actual image or GIF URL -->
 
 - 🧠 **Design & implement CI/CD pipelines** using Jenkins, AWS CodePipeline, and GitHub Actions  
 - 📦 **Package & manage artifacts** with tools like **JFrog Artifactory** and **Maven**  
