@@ -37,14 +37,10 @@ I'm a **DevOps Engineer & Python Developer** with a strong foundation in softwar
 🔹 **[AWS QuickSight Demo](https://github.com/guderian120/Amazon_QuickSight)**  
 > ![AWS Pipeline](/media/quick_sight_v1.gif)  
 > Complete data visualization using Amazon QuickSight to consume large csv data from AWS S3.
-<!-- 🔹 **[AWS CodeFamily Demo](https://github.com/your-username/aws-codefamily-demo)**  
-> ![AWS Pipeline](/media/aws_pipeline.png)  
-> Complete deployment pipeline using CodeCommit, CodeBuild, CodeDeploy, and CodePipeline. -->
 
-<!-- 🔹 **[Kubernetes Deployment with Helm](https://github.com/your-username/k8s-helm-deployment)**  
-> ![K8s App](/media/k8s_dashboard.png)  
-> A microservice-based app deployed on Kubernetes with Helm and monitored with Prometheus. -->
-
+🔹 **[CI/CD with Github Actions + AWS RDS(Mysql) + EC2 + Docker](https://github.com/guderian120/maven_tomcat_deployment)**  
+> ![Pipeline Preview](/media/github_action.gif)  
+> As Part of my project with Amalitech I implemented a complete pipeline with Github Actions
 ---
 
 ## 🧭 Core Values
