@@ -38,7 +38,7 @@ I'm a **DevOps Engineer & Python Developer** with a strong foundation in softwar
 > ![AWS Pipeline](/media/quick_sight_v1.gif)  
 > Complete data visualization using Amazon QuickSight to consume large csv data from AWS S3.
 
-🔹 **[CI/CD with Github Actions + AWS RDS(Mysql) + EC2 + Docker](https://github.com/guderian120/maven_tomcat_deployment)**  
+🔹 **[CI/CD with Github Actions + AWS RDS(Mysql) + EC2 + Docker](https://github.com/guderian120/Django_RDS_Project)**  
 > ![Pipeline Preview](/media/github_actions.gif)  
 > As Part of my project with Amalitech I implemented a complete pipeline with Github Actions
 ---
