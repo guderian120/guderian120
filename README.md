@@ -30,16 +30,16 @@ I'm a **DevOps Engineer & Python Developer** with a strong foundation in softwar
 ## 💡 Featured Projects
 
 🔹 **[CI/CD with Jenkins + TomCat + Maven](https://github.com/guderian120/maven_tomcat_deployment)**  
-> ![Pipeline Preview](/media/maven_tomcat.gif)  
+> ![Pipeline Preview](./media/maven_tomcat.gif)  
 > A real-world pipeline that integrates Jenkins, Maven, and JFrog for secure artifact delivery.
 
 
 🔹 **[AWS QuickSight Demo](https://github.com/guderian120/Amazon_QuickSight)**  
-> ![AWS Pipeline](/media/quick_sight_v1.gif)  
+> ![AWS Pipeline](./media/quick_sight_v1.gif)  
 > Complete data visualization using Amazon QuickSight to consume large csv data from AWS S3.
 
 🔹 **[CI/CD with Github Actions + AWS RDS(Mysql) + EC2 + Docker](https://github.com/guderian120/Django_RDS_Project)**  
-> ![Pipeline Preview](/media/github_actions.gif)  
+> ![Pipeline Preview](./media/github_actions.gif)  
 > As Part of my project with Amalitech I implemented a complete pipeline with Github Actions
 ---
 
